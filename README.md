@@ -39,7 +39,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richard-carveth&theme=onedark">
+  <img src="https://github-profile-trophy.vercel.app/?username=richard-carveth&theme=juicyfresh">
 </div>
 
 
