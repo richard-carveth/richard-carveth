@@ -34,8 +34,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richard-carveth&show_icons=true&theme=gruvbox" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-carveth&layout=compact&theme=gruvbox" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=richard-carveth&show_icons=true&theme=gruvbox" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-carveth&layout=compact&theme=gruvbox" height="150">
 </div>
 <br>
 <div align="center">
